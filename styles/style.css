@@ -1,0 +1,28 @@
+body {
+    background-color: #F3F1FF;
+}
+.navbar img {
+    width: 40px;
+}
+main {
+    max-width: 870px;
+    background-color: #fff;
+}
+.player img {
+    width: 56px;
+}
+
+.top-heading-title {
+    color: #562EFF;
+}
+.blog img {
+    width: 117px;
+}
+.gray-text {
+    color: #9F9F9F;
+}
+.blog-text p {
+    color: #562EFF;
+    font-weight: 500;
+
+}
