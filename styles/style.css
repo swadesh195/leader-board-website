@@ -78,14 +78,12 @@ main {
 .latest-course {
     border-top: 20px solid #F3F1FF;
 }
-footer {
-    background-color: #fff;
-}
-.copyright {
+.footer-area {
     color: #fff;
     text-align: center;
     font-weight: 400;
     padding: 40px 0;
     border-top: 20px solid #F3F1FF;
     background-color: #562EFF;
+    background-color: #fff;
 }
