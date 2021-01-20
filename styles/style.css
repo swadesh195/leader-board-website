@@ -78,6 +78,9 @@ main {
 .latest-course {
     border-top: 20px solid #F3F1FF;
 }
+footer {
+    background-color: #fff;
+}
 .copyright {
     color: #fff;
     text-align: center;
