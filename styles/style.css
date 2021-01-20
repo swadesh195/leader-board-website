@@ -75,13 +75,10 @@ main {
     border-radius: 10px;
     background-color: #FFE4E8;
 }
-footer {
-    background-color: #fff;
-}
 .latest-course {
     border-top: 20px solid #F3F1FF;
 }
-.copyright {
+.footer-area {
     color: #fff;
     text-align: center;
     font-weight: 400;
